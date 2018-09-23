@@ -1,8 +1,8 @@
 # Site settings
-title: Highlights
+title: Myths Untold
 email: youremailaddress@gmail.com
-description: The Jekyll version of the Highlights theme by HTML5 UP.
-baseurl: "/highlights-jekyll-theme" # the subpath of your site, e.g. /blog
+description: a studio that tells stories through games.
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Social settings
