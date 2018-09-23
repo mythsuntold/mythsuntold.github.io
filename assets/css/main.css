@@ -2546,7 +2546,7 @@
 		input[type="button"].special,
 		button.special,
 		.button.special {
-			background-color: #8cd1a8;
+			background-color: #d18cc8;
 			border: 0;
 			box-shadow: none;
 			color: #ffffff !important;
@@ -2557,7 +2557,7 @@
 			input[type="button"].special:hover,
 			button.special:hover,
 			.button.special:hover {
-				background-color: #9ed8b6;
+				background-color: #d69ed8;
 			}
 
 			input[type="submit"].special:active,
@@ -2565,7 +2565,7 @@
 			input[type="button"].special:active,
 			button.special:active,
 			.button.special:active {
-				background-color: #7aca9a;
+				background-color: #ba7aca;
 			}
 
 			input[type="submit"].special.icon:before,
@@ -2573,7 +2573,7 @@
 			input[type="button"].special.icon:before,
 			button.special.icon:before,
 			.button.special.icon:before {
-				color: #d1ecdc;
+				color: #e6d1ec;
 			}
 
 		input[type="submit"].disabled, input[type="submit"]:disabled,
