@@ -2165,6 +2165,7 @@
 
 	.image {
 		border: 0;
+    border-bottom-color: transparent !important;
 		display: inline-block;
 		position: relative;
 	}
@@ -2182,6 +2183,7 @@
 
 		.image img {
 			display: block;
+      border-bottom-color: transparent !important;
 		}
 
 		.image.left {
