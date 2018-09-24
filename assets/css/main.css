@@ -1310,7 +1310,7 @@
 /* Basic */
 
 	html {
-		background-color: #313a3d;
+		background-color: #37313d;
 		background-attachment: fixed,						fixed;
 		background-image: url("images/overlay.png"), url("../../assets/images/bg.jpg");
 		background-position: top left,					center center;
@@ -1343,7 +1343,7 @@
 		}
 
 	body, input, select, textarea {
-		color: #6f7577;
+		color: #736f77;
 		font-family: "Raleway", "Helvetica", sans-serif;
 		font-size: 15pt;
 		font-weight: 400;
@@ -1356,18 +1356,18 @@
 		-ms-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		border-bottom: dotted 1px;
-		color: #8cd1a8;
+		color: #705e99;
 		text-decoration: none;
 	}
 
 		a:hover {
 			border-bottom-color: transparent !important;
-			color: #8cd1a8 !important;
+			color: #aa8cd1 !important;
 			text-decoration: none;
 		}
 
 	strong, b {
-		color: #61686b;
+		color: #67616b;
 		font-weight: 700;
 	}
 
