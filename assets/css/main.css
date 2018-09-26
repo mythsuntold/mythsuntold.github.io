@@ -2216,6 +2216,21 @@
 				width: 100%;
 			}
 
+
+		.image.fit80 {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+			width: 80%;
+		}
+
+			.image.fit80 img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+				width: 80%;
+			}
+
 /* List */
 
 	ol {
